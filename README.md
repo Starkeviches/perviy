@@ -1,2 +1,3 @@
-# krjfv k;fjge'gj'er
-# Hi am hiere
+# in gitignore insert file 
+# discription 
+# logs
